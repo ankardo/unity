@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991233ce69bb3b44ab62bf2c0849f47c, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  stats:
+  - type: 0
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 1
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 2
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 3
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 4
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 5
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 6
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 7
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 8
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 9
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 10
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 11
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 12
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 13
+    baseValue: 3
+    currentValue: 3
+    growth: 0
+  skills:
+  - {fileID: 6251391422376731048, guid: ba8d605b22a29db439966ce84fef32c0, type: 3}
+  - {fileID: 6251391422376731048, guid: c4f818ebb5e24704faf3f516711f3f8c, type: 3}
+  - {fileID: 8913450013220075575, guid: c7416f5f48c394940b8d8f5b64e75bb4, type: 3}
+  AISkillPicks: {fileID: 4777635312912945416, guid: b5ae6322246983b4eb3530898057b12d, type: 3}
+  spriteModel: Mini-Crusader
+  description: 
+  portrait: {fileID: 0}
+  advancesAtLevel: 999
+  advancesTo: []

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991233ce69bb3b44ab62bf2c0849f47c, type: 3}
+  m_Name: Fighter
+  m_EditorClassIdentifier: 
+  stats:
+  - type: 0
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 1
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 2
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 3
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 4
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 5
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 6
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 7
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 8
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 9
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 10
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 11
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 12
+    baseValue: 10
+    currentValue: 10
+    growth: 1
+  - type: 13
+    baseValue: 2
+    currentValue: 2
+    growth: 0
+  skills:
+  - {fileID: 6251391422376731048, guid: f8e90cdcd945e194da9f8aa3816a9f03, type: 3}
+  - {fileID: 6251391422376731048, guid: 25b29bcda68619c4d850075c4f1e36c9, type: 3}
+  - {fileID: 8913450013220075575, guid: 687b2a4271314ff45ac16ca278895ee7, type: 3}
+  AISkillPicks: {fileID: 4777635312912945416, guid: 2d8c39776f813304aa70bbaa44ec9cbf, type: 3}
+  spriteModel: Mini-Crusader
+  description: 
+  portrait: {fileID: 21300000, guid: 82d4436c8663a904ca2bb023a2cc51ab, type: 3}
+  advancesAtLevel: 5
+  advancesTo:
+  - {fileID: 11400000, guid: a730a76d279ea4b43987ef7e9f5caef0, type: 2}
+  - {fileID: 11400000, guid: 6e21c1878e6a8cd4d81d423514397b87, type: 2}

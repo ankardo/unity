@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 8d7935d2c12b38346bf357c9436c8733
+  m_BuildRemoteCatalog: 0
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 84498b55efab4a84ba5ffdfdac0a26a5
+  m_RemoteCatalogLoadPath:
+    m_Id: ebc7284f60291804abbae10a3aef3dc3
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 686d4e56c66073340a67b99b1695579c, type: 2}
+  - {fileID: 11400000, guid: 36657f92686c7294982da2b35bb3171f, type: 2}
+  - {fileID: 11400000, guid: 051c985f8ab804845bc829d5be61d9ec, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 39ec03cd5ce53834ead5ad82e712c338
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: b2f6a687cace3cb40bf15ad9b603e940
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 7d29489e0ca9dec40ae161d5d56f7839
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 829213706db9ddb49a60051cc0feaa46
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 84498b55efab4a84ba5ffdfdac0a26a5
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: ebc7284f60291804abbae10a3aef3dc3
+        m_Value: http://localhost/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: b2f6a687cace3cb40bf15ad9b603e940
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 7d29489e0ca9dec40ae161d5d56f7839
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: 829213706db9ddb49a60051cc0feaa46
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 84498b55efab4a84ba5ffdfdac0a26a5
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: ebc7284f60291804abbae10a3aef3dc3
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - Mini-Crusader/AttackE
+    - Mini-Crusader/AttackN
+    - Mini-Crusader/AttackS
+    - Mini-Crusader/AttackW
+    - Mini-Crusader/WalkW
+    - Mini-Crusader/WalkS
+    - Mini-Crusader/WalkN
+    - Mini-Crusader/WalkE
+    - Mini-Crusader/IdleW
+    - Mini-Crusader/IdleS
+    - Mini-Crusader/IdleN
+    - Mini-Crusader/IdleE
+    - Mini-Crusader/GotHitW
+    - Mini-Crusader/GotHitS
+    - Mini-Crusader/GotHitN
+    - Mini-Crusader/GotHitE
+    - Mini-Crusader/JumpE
+    - Mini-Crusader/JumpN
+    - Mini-Crusader/JumpS
+    - Mini-Crusader/JumpW
+    - Mini-Crusader/DeathW
+    - Mini-Crusader/DeathN
+    - Mini-Crusader/DeathS
+    - Mini-Crusader/DeathE
+    - WeaponArmorInteraction
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 0cf95fbf5ae63dc42ba3ba7c04fed538, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: f8b1102abf585e5428bf98134c7fa4b2, type: 2}
+  - {fileID: 11400000, guid: 5d1ad59c04021b24594ad5de21597087, type: 2}
+  - {fileID: 11400000, guid: 1263d8a14d26ca1499218d2908323381, type: 2}
+  - {fileID: 11400000, guid: f045d0f754e0d994eac3281badfebd6f, type: 2}
+  m_ActiveProfileId: 39ec03cd5ce53834ead5ad82e712c338
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

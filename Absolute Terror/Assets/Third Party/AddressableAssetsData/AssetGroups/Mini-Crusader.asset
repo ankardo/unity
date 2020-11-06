@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Mini-Crusader
+  m_EditorClassIdentifier: 
+  m_GroupName: Mini-Crusader
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98a1b8860abf91249a45952e5b039ab9
+  m_SerializeEntries:
+  - m_GUID: 06a726a5193580c48b20ddef93e67074
+    m_Address: Mini-Crusader/DeathE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/DeathE
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0d5800f121854a54496de8d595fffeb0
+    m_Address: Mini-Crusader/AttackN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/AttackN
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 27080b6f2cb59284fb1fbd9cfa4b3e47
+    m_Address: Mini-Crusader/AttackW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AttackW
+    - Mini-Crusader/AttackW
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 370bb43e99602974faaf798f37491a1f
+    m_Address: Mini-Crusader/GotHitN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/GotHitN
+    m_MainAsset: {fileID: 102900000, guid: 370bb43e99602974faaf798f37491a1f, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 370bb43e99602974faaf798f37491a1f, type: 3}
+  - m_GUID: 379ce9ad657c4f54fb8cb04f04f55392
+    m_Address: Mini-Crusader/IdleW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IdleW
+    - Mini-Crusader/IdleW
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3868efbf15956a44f8fe7c95750a2e57
+    m_Address: Mini-Crusader/DeathW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/DeathW
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 42973fbc568e4b74aa306c6ff18617bf
+    m_Address: Mini-Crusader/AttackE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AttackE
+    - Mini-Crusader/AttackE
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4355ad3737bd3bf45980c44a0dda8e0c
+    m_Address: Mini-Crusader/JumpN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/JumpN
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 49bc4a8d64c5e4347bfffa0654eee374
+    m_Address: Mini-Crusader/DeathS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/DeathS
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 57d5b48b809fae54fbd1aa5c001146da
+    m_Address: Mini-Crusader/IdleE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IdleE
+    - Mini-Crusader/IdleE
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6ecd3ad250ac89f498408ba694d258d0
+    m_Address: Mini-Crusader/JumpW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/JumpW
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 73b0d0b97fe5f1341aa703edfb3c833d
+    m_Address: Mini-Crusader/AttackS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AttackS
+    - Mini-Crusader/AttackS
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 78f72764005d007408af5a4e9842a575
+    m_Address: Mini-Crusader/JumpS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/JumpS
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8c606300e0832b547bdf56a4dbac09a1
+    m_Address: Mini-Crusader/IdleN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IdleN
+    - Mini-Crusader/IdleN
+    m_MainAsset: {fileID: 102900000, guid: 8c606300e0832b547bdf56a4dbac09a1, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 8c606300e0832b547bdf56a4dbac09a1, type: 3}
+  - m_GUID: a9c6f8c181405b646b2220b25a2dad67
+    m_Address: Mini-Crusader/WalkN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WalkN
+    - Mini-Crusader/WalkN
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab3aea1f1ae7a3d4ea29d6acd7d86b77
+    m_Address: Mini-Crusader/WalkS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WalkS
+    - Mini-Crusader/WalkS
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c8d5aa7ac308cbd4eb97dcf8d26d47b0
+    m_Address: Mini-Crusader/WalkE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WalkE
+    - Mini-Crusader/WalkE
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d0dba38ab931b6748bf656acd77dbf51
+    m_Address: Mini-Crusader/GotHitE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/GotHitE
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d3ddc60d55f856f47b2f954ce0628cd0
+    m_Address: Mini-Crusader/WalkW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WalkW
+    - Mini-Crusader/WalkW
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d41a2412fc27c034699672e6f8d7a4b3
+    m_Address: Mini-Crusader/GotHitW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/GotHitW
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d5a52618d0a77174da4b972c21bdd938
+    m_Address: Mini-Crusader/JumpE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/JumpE
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d6263bcf9c76b3a4e8127285e40582e5
+    m_Address: Mini-Crusader/IdleS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IdleS
+    - Mini-Crusader/IdleS
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f028d5fd62132fa45b5f086206eed527
+    m_Address: Mini-Crusader/DeathN
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/DeathN
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f85136dfdd0e48d4bb2493761e4e4f60
+    m_Address: Mini-Crusader/GotHitS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mini-Crusader/GotHitS
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2d3a9c067baa4254790401aab7900a09, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0588baa485c63544da180bf8cae17c1c, type: 2}
+    - {fileID: 11400000, guid: 92adafab4993bfe4baaab84667c4905e, type: 2}
